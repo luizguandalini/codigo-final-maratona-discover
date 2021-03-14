@@ -12,6 +12,6 @@ com o intuito de ser uma forma rápida e prática de fazer um controle de gastos
 # 💻 Resultado
 
 <div align="center">
-<img alt="print-do-site"  src="https://imgur.com/a/6QXnSOx" width="450px"
+<img alt=" print-do-site " src="https://imgur.com/a/6QXnSOx" width="450px"
   <p>Confira o resultado: <a href="https://luizguandalinidevfinance.netlify.app/">Dev Finance</a></p>
   </div>
