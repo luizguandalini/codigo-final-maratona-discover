@@ -13,7 +13,7 @@ com o intuito de ser uma forma rápida e prática de fazer um controle de gastos
 
 <div align="center">
   <img alt="print-do-site" src="https://i.imgur.com/h6Fk3X0.png" width="450px">
-  <p>Confira o resultado: <a href="https://luizguandalinidevfinance.netlify.app">Dev Finance</a></p>
+  <p><a href="https://luizguandalinidevfinance.netlify.app">Dev Finance</a> Confira o resultado: </p>
 </div>
 
 
